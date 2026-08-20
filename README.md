@@ -1,18 +1,26 @@
 # Hi, I'm Samuel Sibuea! 👋
 
-Backend Engineer focused on building robust, scalable APIs and high-performance services.
+I'm a passionate **Backend Engineer** focused on building robust, scalable APIs and high-performance services.
+
+### About me
+
+* 💼 Backend Engineer specializing in **Java, Spring Boot, Go, and PostgreSQL**
+* 🛠️ Experienced in designing clean architecture, RESTful APIs, and database systems
+* ❤️ I love writing clean, maintainable, and high-performance code ready to scale
+* 💬 Ask me about backend architecture, databases, or connect with me [on LinkedIn](https://www.linkedin.com/in/samuel-sibuea29) or via [Email](mailto:sibueas45@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/>
+</p>
 
 ---
 
-### 📬 Connect:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-sibuea29)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sibueas45@gmail.com)
+### 📊 GitHub Stats
+[![GitHub Stats](https://github-readme-stats-ashy-nine-27.vercel.app/api?username=mue1l&show_icons=true&theme=radial&count_private=true&cache=2)](https://github.com/anuraghazra/github-readme-stats)
