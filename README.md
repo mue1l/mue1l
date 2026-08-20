@@ -14,11 +14,6 @@ Backend Java Developer with a strong focus on building backend systems using Jav
 
 ---
 
-### 📊 Statistik GitHub Saya (Termasuk Private Repo):
-[![GitHub Stats](https://github-readme-stats-ashy-nine-27.vercel.app/api?username=mue1l&show_icons=true&theme=radial&count_private=true&cache=2)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📬 Hubungi Saya:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-sibuea29)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sibueas45@gmail.com)
