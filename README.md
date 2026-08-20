@@ -16,8 +16,3 @@ I'm a passionate **Backend Engineer** focused on building robust, scalable APIs 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="24" height="24"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats-ashy-nine-27.vercel.app/api?username=mue1l&show_icons=true&theme=radial&count_private=true&cache=2)](https://github.com/anuraghazra/github-readme-stats)
