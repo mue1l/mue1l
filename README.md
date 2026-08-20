@@ -1,6 +1,4 @@
-Berikut adalah kode Markdown lengkap yang sudah diterjemahkan sepenuhnya ke dalam **Bahasa Inggris**:
 
-```markdown
 # Hi, I'm Samuel Sibuea! 👋
 
 Backend Java Developer with a strong focus on building backend systems using Java and Spring Boot. Experienced in developing REST APIs, business logic, workflow processing, authentication, authorization, database integration, validation, schedulers, and service-layer architecture. Able to build backend systems that are not only technically functional, but also aligned with business processes, maintainable, and ready to scale for operational application needs.
